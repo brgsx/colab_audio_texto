@@ -1,5 +1,7 @@
 # Transcreva Áudios com OpenAI Whisper
 
+[Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/drive/1KnGFSofpxF5gbpwasQnOhg9JikVNblAg?usp=sharing)  
+
 ## Introdução
 Este notebook utiliza o Whisper da OpenAI, um modelo avançado de reconhecimento de fala, para transcrever e traduzir arquivos de áudio.
 
